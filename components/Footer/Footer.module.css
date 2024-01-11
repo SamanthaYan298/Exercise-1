@@ -1,0 +1,18 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 70px;
+    font-size: 13px;
+    font-family: var(--small);
+    color: var(--font-gray);
+}
+
+.footer1{
+    word-spacing: 10px;
+    text-align: center;
+}
+
+.footer2 {
+    padding-top: 20px;
+}
